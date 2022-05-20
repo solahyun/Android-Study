@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors.xml : 색상을 지정, 저장할 수 있는 공간 -->
+    <color name="purple_200">#f7ffd6</color>
+
+    <!-- Main title 창 색상 지정 -->
+    <color name="purple_500">#c4e0a4</color>
+
+    <!-- 상태바 색상 지정-->
+    <color name="purple_700">#93ae75</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 나만의 색상 저장 -->
+    <color name="nameMyColor">#ffa4a2</color>
+</resources>

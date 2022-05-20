@@ -1,0 +1,6 @@
+<resources>
+    <!-- strings.xml : 문자열을 정의할 수 있는 공간-->
+    <string name="app_name">My Application_0425</string>
+    <string name="tv_mainText">My First APP</string>
+    <string name="myTitle">Welcome APP</string>
+</resources>

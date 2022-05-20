@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application_0426_2</string>
+    <string name="red">빨강</string>
+    <string name="green">초록</string>
+    <string name="blue">파랑</string>
+    <string name="num1">첫번째 숫자 입력</string>
+    <string name="num2">두번째 숫자 입력</string>
+    <string name="plus">더하기</string>
+    <string name="minus">빼기</string>
+    <string name="mul">곱하기</string>
+    <string name="div">나누기</string>
+    <string name="result">연산결과 : 0</string>
+</resources>
